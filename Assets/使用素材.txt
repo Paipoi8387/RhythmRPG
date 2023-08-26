@@ -1,0 +1,43 @@
+Dental
+    発射音　キャンセル3　効果音ラボ　https://soundeffect-lab.info/sound/button/
+    刃が刺さる音　剣で切る2　効果音ラボ　https://soundeffect-lab.info/sound/battle/
+    樽から飛び出す音　ボヨヨーン　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    鳥の羽音　鳩時計2　効果音ラボ　https://soundeffect-lab.info/sound/various/various3.html
+    鳥が出現する音　パッ　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    パーフェクト音　キラッ1　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    攻撃切り替え　シーン切り替え2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+
+    戦闘：デンタル　差引き雲　創作堂さくら紅葉　https://music.yukizakura.net/free/genre/battle.html
+
+Max
+    腕を振り上げる　シーン切り替え2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    腕を振り下ろす　爆発音2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    ダメージを食らう　全力で踏み込む　効果音ラボ　https://soundeffect-lab.info/sound/battle/
+    躱す　ジャンプ　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    パンチ成功　クイズ正解2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    パンチ失敗　クイズ不正解1　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    ラウンドテキスト表示　シーン切り替え2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    ラウンド開始　試合終了のゴング　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+
+CF
+    タンバリン　鈴を鳴らす　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+
+Tembo
+    戦闘：テンボ　ピコピコ天国　https://musmus.main.jp/pikopiko.html
+    ブロック消去音　パッ　https://soundeffect-lab.info/sound/anime/
+    衝撃　爆発音2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    
+Gootara
+    戦闘：Gootara　さようならのうた https://musmus.main.jp/music_img1_05.html
+    ジャンプ音　パッ　https://soundeffect-lab.info/sound/anime/
+    ジャンプ成功　クイズ正解2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    ジャンプ失敗　クイズ不正解1　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+
+Yotto
+    戦闘：Yotto　HONEY BEE CRASH ! https://musmus.main.jp/music_img2.html
+    大砲　爆発音2　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+    魚が出現する音　パッ　効果音ラボ　https://soundeffect-lab.info/sound/anime/
+
+フォント
+    ラノベPOP V2　http://www.fontna.com/blog/1706/
+    JFドット東雲ゴシック14　http://jikasei.me/font/jf-dotfont/
